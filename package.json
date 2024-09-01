@@ -14,10 +14,15 @@
     "@eslint/js": "^9.9.1",
     "@rushstack/eslint-patch": "^1.10.4",
     "@types/node": "^22.5.1",
+    "@types/yargs": "^17.0.33",
     "eslint": "^9.9.1",
     "prettier": "^3.3.3",
     "tsx": "^4.19.0",
     "typescript": "^5.5.4",
     "typescript-eslint": "^8.3.0"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2",
+    "zod": "^3.23.8"
   }
 }

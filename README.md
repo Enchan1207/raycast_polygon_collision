@@ -1,17 +1,8 @@
-# Plain TypeScript project template
+# Ray-casting algorithm implementation
 
 ## Overview
 
-*Template content*
-
-This is template repository for plain TypeScript development.
-It contains:
-
-- TypeScript support
-    - type checking by `tsc`
-    - run code by `tsx`
-- ESLint
-- Prettier
+レイキャスティング法によるPIP(*Point-In-Polygon*)の実装
 
 ## License
 
